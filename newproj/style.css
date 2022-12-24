@@ -1,0 +1,135 @@
+
+#main-brand{
+    color: rgb(247 184 1);
+    /* //size: 4rem; */
+    font-size: larger;
+}
+#headder{
+    background-image:url('hero-area.png');
+    background-size: 1685px 718px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    padding-bottom: 3.5rem;
+    margin-bottom: 2rem;
+}
+#betacode{
+    
+    color: black;
+    margin-left: 4rem;
+    margin-top: 3.5rem;
+    text-align: left;
+    font-size: 3.8rem;
+    font-weight: 740;
+}
+.betacode-intro,p{
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: 580;
+    padding: 0rem 3.3rem;
+}
+.marketing-img,img{
+    width: 75%;
+    height: 75%;
+    margin-top: 1.5rem;
+}
+.join-us,h1{
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 3.5rem;
+}
+.social-media{
+    text-align: center;
+    /* padding-left: 10%; */
+    /* padding-top: 5%;
+    padding-bottom: 5%; */
+   /* // margin: 5px 3px; */
+}
+
+.icons{
+    size: 4rem;
+    line-height: 6rem;
+}
+.icons:hover{
+    color: #f7b801;
+}
+.icon-disc,p{
+    text-align: left;
+}
+.icon-head{
+    text-align: center;
+    font-weight: 800;
+    font-size: 2rem;
+}
+.icon-head:hover{
+    color: #f7b801;
+}
+
+/* //To hover the whole social media block */
+
+.social-media:hover {
+    box-shadow: 0 10px 22px 10px rgb(27 38 49 / 10%);
+}
+
+/* heading-benifit */
+
+li{
+    list-style: none;
+}
+.Benefits_of_Joining_Us{
+    padding: 4rem;
+}
+.heading-benifit,h1{
+    font-size: 3.1rem;
+    text-align: center;
+    font-weight: 750;
+}
+
+hr {
+    border-top:3rem dotted red;
+    overflow: visible;
+    height: 2rem;
+    width: 40%;
+}
+.explore-heading{
+    text-align: left;
+    padding-left: 5.6rem;
+}
+.explore-h2{
+    font-weight: 700;
+}
+.explore-points{
+    padding-left: 4rem;
+    line-height: 55px;
+    font-weight: 400;
+}
+.img-social-bio{
+    width: 100%;
+    padding-left: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+#benefit-button{
+    border-radius:70cm;
+    background-color: #f7b801;
+    border-color:darkkhaki;
+    box-shadow: black;
+    font-weight: 480;
+    margin-left: 2rem;
+    size: 40rem;
+}
+#benefit-button:hover{
+    background-color: white;
+    color: #f7b801;
+}
+#homepage-button{
+    border-radius:70cm;
+    background-color: #f7b801;
+    border-color:darkkhaki;
+    box-shadow: black;
+    font-weight: 480;
+    margin-top: 0.5rem;
+    margin-bottom: 0.8rem;
+    margin-left: 3.9rem;
+    size: 40rem;
+}
